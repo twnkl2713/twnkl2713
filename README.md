@@ -4,7 +4,7 @@
 </h3>
 
 <h2>📖 | About me</h2>
-I'm a second-year B.Tech CSE student with a keen interest in machine learning, data structures, and scalable solutions. Currently honing my skills in PyTorch, C++, and Java, I take on challenges in AI and DSA, always aiming to create efficient and impactful systems. Let's connect and collaborate on something exciting! 🚀
+I'm a third-year B.Tech CSE student with a keen interest in machine learning, data structures, and scalable solutions. Currently honing my skills in PyTorch, C++, and Java, I take on challenges in AI and DSA, always aiming to create efficient and impactful systems. Let's connect and collaborate on something exciting! 🚀
 
 <div align="center">
   <br>
